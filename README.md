@@ -127,8 +127,6 @@
 
 <h2>📊 Stats and Used Languages</h2>
 
-[![wakatime](https://wakatime.com/badge/user/d48793bb-e82a-4894-bc66-e78cbb15b968.svg)](https://wakatime.com/@d48793bb-e82a-4894-bc66-e78cbb15b968)
-
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuliyaVoronovich&theme=transparent"><br>
     <img src="https://github-readme-stats.vercel.app/api?username=YuliyaVoronovich&show_icons=true&theme=transparent"/>

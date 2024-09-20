@@ -12,6 +12,9 @@
 
 <h2>💻 My Tech Stack</h2>
 
+[![Vue][Vue]][Vue-url]
+[![Vuetify][Vuetify]][Vuetify-url]
+[![Pinia][Pinia]][Pinia-url]
 [![Angular][Angular]][Angular-url]
 [![RxJS][RxJS]][RxJS-url]
 [![NgRx][NgRx]][NgRx-url]
@@ -23,6 +26,7 @@
 [![CSS3][CSS3]][CSS3-url]
 [![SASS][SASS]][SASS-url]
 [![AngularMaterial][AngularMaterial]][AngularMaterial-url]
+[![TaigaUI][TaigaUI]][TaigaUI-url]
 [![Git][Git]][Git-url]
 [![GitHub][GitHub]][GitHub-url]
 [![GitHubActions][GitHubActions]][GitHubActions-url]
@@ -40,10 +44,18 @@
 [![Vitest][Vitest]][Vitest-url]
 [![Jest][Jest]][Jest-url]
 [![Trello][Trello]][Trello-url]
+[![Jira][Jira]][Jira-url]
 [![Figma][Figma]][Figma-url]
-[![Canva][Canva]][Canva-url]
 [![VSCode][VSCode]][VSCode-url]
+[![WebShtorm][WebShtorm]][WebShtorm-url]
 
+
+[Vue]: https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white
+[Vue-url]: https://vuejs.org/
+[Vuetify]: https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white
+[Vuetify-url]: https://vuetifyjs.com
+[Pinia]: https://img.shields.io/badge/pinia-0D0D0D?style=for-the-badge&logo=pinia&logoColor=white
+[Pinia-url]: https://pinia.vuejs.org/
 [Angular]: https://img.shields.io/badge/angular-C2185B.svg?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.dev/
 [RxJS]: https://img.shields.io/badge/RxJS-B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white
@@ -66,6 +78,8 @@
 [SASS-url]: https://sass-lang.com/
 [AngularMaterial]: https://img.shields.io/badge/Material-F9A825?style=for-the-badge&logo=angular&logoColor=white
 [AngularMaterial-url]: https://material.angular.io/
+[TaigaUI]: https://img.shields.io/badge/Taiga%20UI-F9A825?style=for-the-badge&logo=angular&logoColor=white
+[TaigaUI-url]: https://taiga-ui.dev/
 [Git]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com/
 [GitHub]: https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white
@@ -102,12 +116,14 @@
 [Jest-url]: https://jestjs.io/
 [Trello]: https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
 [Trello-url]: https://trello.com/
+[Jira]: https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white
+[Jira-url]: https://trello.com/](https://www.atlassian.com/software/jira
 [Figma]: https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 [Figma-url]: https://www.figma.com/
-[Canva]: https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white
-[Canva-url]: https://www.canva.com/
 [VSCode]: https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logoColor=white
 [VSCode-url]: https://code.visualstudio.com/
+[WebShtorm]: https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=jetbrains&logoColor=white
+[WebShtorm-url]: https://www.jetbrains.com/webstorm/
 
 <h2>📊 Stats and Used Languages</h2>
 

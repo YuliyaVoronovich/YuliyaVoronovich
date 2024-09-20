@@ -133,7 +133,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuliyaVoronovich&theme=transparent"><br>
     <img src="https://github-readme-stats.vercel.app/api?username=YuliyaVoronovich&show_icons=true&theme=default"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaVoronovich&layout=compact&theme=default"/>
-    <img src="https://github.r2v.ch/codewars?user=rsschool_2dc998ece5be671b&layout=compact&theme=default"/>
+    <img src="https://github.r2v.ch/codewars?user=YuliyaVoronovich&layout=compact&theme=default"/>
 </div>
 
 
